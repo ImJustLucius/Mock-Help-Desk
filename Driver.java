@@ -1,12 +1,8 @@
-// Feel free to add here any import statements that you need for your tests
-
 /**
-   Use the main() method in this class to test your other classes. 
-   We provide you with minimalist tests to get you started. 
-   Feel free to modify them or add as many as you need.
-   This part of your code will not be graded but will help
-   you ensure that your other classes fullfill the requirements.
+   The purpose of this class is run the whole project,
+   making use of all the other classes.
 **/
+
 public class Driver{
    public static void main(String[] args){
    
